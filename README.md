@@ -5,3 +5,10 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=react,php,wordpress,js,nodejs,html,css)](https://skillicons.dev)
 
+
+## Sites
+<a href='https://suyogagitayana.github.io/' target='_blank' rel='noreferrer'>Portfolio</a> | <a href='https://www.linkedin.com/in/suyoga-gitayana' target='_blank' rel='noreferrer'>Linked In</a>
+
+
+## Projects
+Checkout my pinned projects below!

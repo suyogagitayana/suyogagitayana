@@ -7,7 +7,7 @@ I thrive when working on projects that not only capture my interest but are also
 ![My Skills](https://skillicons.dev/icons?i=react,php,wordpress,js,nodejs,html,css)
 
 ## Sites
-<a href='https://suyogagitayana.github.io/' target='_blank' rel='noreferrer'>Portfolio</a> | <a href='https://www.linkedin.com/in/suyoga-gitayana' target='_blank' rel='noreferrer'>Linked In</a>
+<a href="https://suyogagitayana.github.io/" target="_blank" rel="noreferrer">Portfolio</a> | <a href="https://www.linkedin.com/in/suyoga-gitayana" target="_blank" rel="noreferrer">Linked In</a>
 
 
 ## Projects

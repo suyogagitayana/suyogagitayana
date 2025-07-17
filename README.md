@@ -1,6 +1,6 @@
-# WELCOME ADVENTURER!
+# WELCOME TRAVELER!
 
-**I'm Suyoga Gitayana** - I am a Software Engineer who values simplicity in design and well-structured code.
+**My name is Suyoga Gitayana** - I am a Software Engineer who values simplicity in design and well-structured code.
 I thrive when working on projects that not only capture my interest but are also enjoyable to create.
 
 ## Skills
@@ -11,4 +11,4 @@ I thrive when working on projects that not only capture my interest but are also
 
 
 ## Projects
-Checkout my pinned projects below!
+Check out my pinned projects below!

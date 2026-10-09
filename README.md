@@ -1,14 +1,17 @@
-# WELCOME TRAVELER!
+# Welcome, Traveler! 👋
 
-**My name is Suyoga Gitayana** - I am a Software Engineer who values simplicity in design and well-structured code.
-I thrive when working on projects that not only capture my interest but are also enjoyable to create.
+I'm **Suyoga Gitayana**, a Software Engineer who loves turning random ideas into fun side projects.
 
-## Skills
-![My Skills](https://skillicons.dev/icons?i=react,php,nodejs,js,html,css,wordpress,git,vscode)
+Passionate about clean code, simple design, and learning new things. Fueled by curiosity, zero coffee, and an endless need for naps.
 
-## Sites
-<a href="https://suyogagitayana.github.io/" target="_blank" rel="noreferrer">Portfolio</a> | <a href="https://www.linkedin.com/in/suyoga-gitayana" target="_blank" rel="noreferrer">Linked In</a>
+## 🛠️ Tech Stack
 
+![Tech Stack](https://skillicons.dev/icons?i=react,js,nodejs,php,python,wordpress)
 
-## Projects
-Check out my pinned projects below!
+## 🌐 Find Me
+
+[Portfolio](https://suyogagitayana.github.io/) · [LinkedIn](https://www.linkedin.com/in/suyoga-gitayana)
+
+## 🚀 Side Quests
+
+Trying to find some random stuff to code. Check out my pinned projects below!
